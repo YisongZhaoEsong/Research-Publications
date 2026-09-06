@@ -101,28 +101,6 @@ SPIE, Vol. 13224
 **DOI:** [10.1117/12.3034975](https://doi.org/10.1117/12.3034975)<br>
 **Indexed in:** EI Compendex
 
-**Research Areas:** `Intelligent Optimisation` · `Simulated Annealing` · `Embedded Systems` · `Microcontrollers`
-
-This research investigates an intelligent optimisation approach for elevator scheduling in high-rise office buildings. A simulated annealing algorithm is used to optimise segmented elevator service allocation and minimise service time. The optimisation model is implemented in MATLAB and subsequently evaluated through a microcontroller-based circuit simulation in Proteus.
-
-#### System Framework
-
-```text
-Passenger and Floor Data
-           ↓
-Simulated Annealing Optimisation
-           ↓
-Optimal Elevator Service Segmentation
-           ↓
-MATLAB Simulation
-           ↓
-STC89C52 Microcontroller
-           ↓
-Proteus Circuit Simulation
-```
-
-**Tools:** MATLAB · Proteus · STC89C52 · Embedded Systems
-
 [View Research Details](./03-Elevator-Scheduling-Optimisation/README.md)
 
 ---
