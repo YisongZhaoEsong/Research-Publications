@@ -1,6 +1,6 @@
 # Research & Publications
 
-Selected research by **Yisong Zhao**
+Research by **Yisong Zhao**
 
 **Research interests:** Human–Computer Interaction · Immersive Interaction · Multimodal Interaction · Intelligent Interactive Systems · Human–AI Interaction
 
