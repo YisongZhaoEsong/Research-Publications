@@ -84,6 +84,7 @@ Visual + Auditory + Force Feedback
              ↓
 Immersion and Cultural Meaning
 ```
+**Key Finding:** Combining force feedback with dynamic visual and auditory responses helped translate the abstract values of industrial heritage into perceptible experiences, strengthening users’ immersion and cultural identification.
 
 **Tools:** Unity · TouchOSC · Blender · Arduino
 
