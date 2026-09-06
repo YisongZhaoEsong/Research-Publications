@@ -59,7 +59,7 @@ Within the simulation framework, the RL-based adaptive interface produced lower 
 **DOI:** [10.62381/acs.meha2025.03](https://doi.org/10.62381/acs.meha2025.03)<br>
 **Status:** Published · CPCI indexing pending
 
-**Research Areas:** `Interaction Design` · `Multimodal Interaction` · `Cultural Heritage` · `Digital Media Art`
+**Research Areas:** `Interaction Design` · `Multisensory Interaction` · `Cultural Heritage` · `Digital Media`
 
 This research explores how touch and multimodal interaction can transform abstract industrial cultural values into embodied and perceptible digital experiences. Focusing on Liaoning's industrial heritage, the study combines touch, force feedback, sound and dynamic visual feedback to support cultural interpretation and emotional engagement.
 
