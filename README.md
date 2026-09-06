@@ -21,7 +21,8 @@ SCI-indexed Journal
 
 **Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
 
-This study focuses on adaptive HCI in autonomous driving. It explores how multimodal warnings to driver can respond to changes through driver state and surrounding traffic during obstacle-avoidance situations, supporting safer and more effective collaboration between drivers and automated vehicles. A PPO-based reinforcement learning agent dynamically selects multimodal warning strategies according to the driving context and estimated driver state.
+This study focuses on adaptive HCI in autonomous driving. It examines how multimodal warnings can adapt to changes in driver state and surrounding traffic during obstacle avoidance, supporting safer and more effective collaboration between drivers and automated vehicles. A reinforcement learning agent based on Proximal Policy Optimisation (PPO) adjusts warning strategies according to the driving context and estimated driver state.
+
 
 #### Core Framework
 
