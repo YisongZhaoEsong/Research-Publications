@@ -4,7 +4,9 @@ Research by **Yisong Zhao**
 
 **Research interests:** Human–Computer Interaction · Embodied & Immersive Interaction · Multisensoty Interaction · Intelligent Interactive Systems · Human–AI Interaction
 
-My research explores human–computer interaction across intelligent, multimodal and immersive systems, with particular interests in adaptive interaction, embodied experience and computational approaches to interaction design.
+My research explores human–computer interaction across intelligent, multimodal and immersive systems, with a particular interest in how intelligent and embodied interaction can support digital wellbeing. I approach this work through Research through Design, participatory design and mixed-method HCI evaluation.  
+
+**Research Through Design**
 
 ## Selected Research
 
