@@ -21,7 +21,7 @@ SCI-indexed Journal
 
 **Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
 
-This research investigates how reinforcement learning can support adaptive human–computer interaction in V2X-assisted autonomous driving. The proposed system integrates driver-state information, vehicle dynamics, environmental risk and V2V/V2X communication conditions into a unified decision-making framework. A PPO-based reinforcement learning agent dynamically selects multimodal warning strategies according to the driving context and estimated driver state.
+This study focuses on adaptive HCI in autonomous driving. It explores how multimodal warnings to driver can respond to changes through driver state and surrounding traffic during obstacle-avoidance situations, supporting safer and more effective collaboration between drivers and automated vehicles. A PPO-based reinforcement learning agent dynamically selects multimodal warning strategies according to the driving context and estimated driver state.
 
 #### Core Framework
 
