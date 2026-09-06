@@ -1,0 +1,129 @@
+# Research & Publications
+
+Selected research by **Yisong Zhao**
+
+**Research interests:** Human–Computer Interaction · Immersive Interaction · Multimodal Interaction · Intelligent Interactive Systems · Human–AI Interaction
+
+My research explores human–computer interaction across intelligent, multimodal and immersive systems, with particular interests in adaptive interaction, embodied experience and computational approaches to interaction design.
+
+## Selected Research
+
+### 01. Reinforcement Learning-Based Adaptive Human–Computer Interaction for V2X-Assisted Autonomous Vehicle Obstacle Avoidance
+
+**Yisong Zhao**
+
+*Tehnički vjesnik – Technical Gazette*<br>
+SCI-indexed Journal
+
+**Status:** Revised after peer review · Review finished · Post-review processing
+
+**Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
+
+This research investigates how reinforcement learning can support adaptive human–computer interaction in V2X-assisted autonomous driving. The proposed system integrates driver-state information, vehicle dynamics, environmental risk and V2V/V2X communication conditions into a unified decision-making framework. A PPO-based reinforcement learning agent dynamically selects multimodal warning strategies according to the driving context and estimated driver state.
+
+#### Core Framework
+
+```text
+Driver State + Vehicle State + Traffic Risk + V2X Reliability
+                              ↓
+              12-dimensional State Representation
+                              ↓
+                   PPO Actor–Critic Agent
+                              ↓
+                     Adaptive HCI Policy
+                              ↓
+             No Alert / Weak Alert / Strong Alert
+                              ↓
+             Visual + Auditory + Haptic Feedback
+```
+
+#### Key Finding
+
+Within the simulation framework, the RL-based adaptive interface produced lower simulated reaction-time outputs and model-estimated workload values than the fixed reference policy while maintaining stronger obstacle-avoidance performance under the tested V2X conditions.
+
+> These findings are simulation-based proof-of-concept results and should not be interpreted as validated effects in real drivers.
+
+[View Research Details](./01-Adaptive-HCI-V2X/README.md)
+
+---
+
+### 02. Exploring the Application of Touch Interaction in the Digitalization of Cultural Heritage
+
+**Yisong Zhao (2025)**
+
+*Proceedings of the 2025 2nd International Conference on Modern Education, Humanities and Art (MEHA 2025)*
+
+**DOI:** [10.62381/acs.meha2025.03](https://doi.org/10.62381/acs.meha2025.03)<br>
+**Status:** Published · CPCI indexing pending
+
+**Research Areas:** `Interaction Design` · `Multimodal Interaction` · `Cultural Heritage` · `Digital Media Art`
+
+This research explores how touch and multimodal interaction can transform abstract industrial cultural values into embodied and perceptible digital experiences. Focusing on Liaoning's industrial heritage, the study combines touch, force feedback, sound and dynamic visual feedback to support cultural interpretation and emotional engagement.
+
+#### Design Framework
+
+```text
+Perceptual Reconstruction
+           ↓
+  Interactive Metaphor
+           ↓
+   Cultural Narrative
+```
+
+#### Prototype
+
+```text
+Touch / Sliding / Rotation
+             ↓
+Steel Smelting and Gear Interaction
+             ↓
+Visual + Auditory + Force Feedback
+             ↓
+Immersion and Cultural Meaning
+```
+
+**Tools:** Unity · TouchOSC · Blender · Arduino
+
+[View Research Details](./02-Touch-Interaction-Cultural-Heritage/README.md)
+
+---
+
+### 03. Microcontroller Elevator Scheduling System Based on Intelligent Optimization Algorithms
+
+**Zhixi Pang, Yisong Zhao (2024)**
+
+*Proceedings of the 2024 4th International Conference on Internet of Things and Smart City (IoTSC 2024)*<br>
+SPIE, Vol. 13224
+
+**DOI:** [10.1117/12.3034975](https://doi.org/10.1117/12.3034975)<br>
+**Indexed in:** EI Compendex
+
+**Research Areas:** `Intelligent Optimisation` · `Simulated Annealing` · `Embedded Systems` · `Microcontrollers`
+
+This research investigates an intelligent optimisation approach for elevator scheduling in high-rise office buildings. A simulated annealing algorithm is used to optimise segmented elevator service allocation and minimise service time. The optimisation model is implemented in MATLAB and subsequently evaluated through a microcontroller-based circuit simulation in Proteus.
+
+#### System Framework
+
+```text
+Passenger and Floor Data
+           ↓
+Simulated Annealing Optimisation
+           ↓
+Optimal Elevator Service Segmentation
+           ↓
+MATLAB Simulation
+           ↓
+STC89C52 Microcontroller
+           ↓
+Proteus Circuit Simulation
+```
+
+**Tools:** MATLAB · Proteus · STC89C52 · Embedded Systems
+
+[View Research Details](./03-Elevator-Scheduling-Optimisation/README.md)
+
+---
+
+## Full-text Availability
+
+Full-text manuscripts are not hosted in this repository. Publication links will be added where public distribution is confirmed.
