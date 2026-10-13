@@ -19,6 +19,7 @@ SCI-indexed Journal
 
 **Status:** Accepted for publication<br>
 **DOI:** [10.17559/TV-20260225003419](https://doi.org/10.17559/TV-20260225003419) (to become active after publication)
+**Acceptance letter:** [View PDF](./acceptance-letter.pdf)
 
 **Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
 
