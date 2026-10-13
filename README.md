@@ -21,7 +21,7 @@ SCI-indexed Journal
 
 **DOI:** [10.17559/TV-20260225003419](https://doi.org/10.17559/TV-20260225003419) (to become active after publication)
 
-**Acceptance letter:** [Open acceptance letter (PDF)](./AA-TV-20260225003419.pdf)<br>
+**Acceptance letter:** **Acceptance letter:** [Open PDF](https://github.com/YisongZhaoEsong/Research-Publications/blob/main/01-Adaptive-HCI-V2X/AA-TV-20260225003419.pdf)
 
 **Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
 
