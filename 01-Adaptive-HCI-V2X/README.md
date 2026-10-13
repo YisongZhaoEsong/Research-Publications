@@ -4,7 +4,7 @@
 
 **Author:** Yisong Zhao<br>
 **Journal:** *Tehnički vjesnik – Technical Gazette* (SCI-indexed)<br>
-**Status:** Revised after peer review · Review finished · Post-review processing
+**Status:** Accept Puplication
 
 **Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
 
