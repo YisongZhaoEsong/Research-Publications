@@ -17,7 +17,7 @@ My research explores human–computer interaction across intelligent, multisenso
 *Tehnički vjesnik – Technical Gazette*<br>
 SCI-indexed Journal
 
-**Status:** Revised after peer review · Review finished · Post-review processing
+**Status:** Accepted for publication
 
 **Research Areas:** `Adaptive HCI` · `Reinforcement Learning` · `Multimodal Interaction` · `Autonomous Vehicles` · `V2X`
 
